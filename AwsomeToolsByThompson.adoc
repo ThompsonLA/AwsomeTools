@@ -1,0 +1,52 @@
+include::../ADITO_resources/defaultAttribute.adoc[]
+    
+:toc: auto
+
+= Awsome Tools
+Tools I can recommend
+
+== Passwortmanager
+https://keepass.info/download.html[KeePass]
+
+== DEV tool collection
+https://devtoys.app/[DevToys]
+
+== Editors
+https://notepad-plus-plus.org/downloads/[Notepad++]
+https://code.visualstudio.com/[Visual Studio Code]
+
+== Code snippets
+https://masscode.io/[Masscode]
+
+== SQL client
+https://www.heidisql.com/[HeidiSQL]
+
+== Dateiexplorer
+https://www.softwareok.de/?Download=Q-Dir[Q-Dir]
+
+== Searching
+https://www.voidtools.com/[Everything]
+
+
+== FTP Client
+https://filezilla-project.org/[FileZilla]
+
+== Webservice
+https://www.soapui.org/tools/soapui/[SoapUI]
+
+== LDAP
+https://www.ldapadministrator.com/softerra-ldap-browser.htm[LDAP Browser]
+
+== Screenshot
+https://www.snipaste.com/[Snipast]
+https://flameshot.org/[Flameshot]
+https://getgreenshot.org/[Greenshot]
+
+== Office
+https://de.libreoffice.org/[LibreOffice]
+
+== Others
+https://winmerge.org/?lang=de[WinMerge]
+
+== GIT
+https://tortoisegit.org/[TortoiseGit]
