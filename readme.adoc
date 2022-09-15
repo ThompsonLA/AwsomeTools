@@ -1,5 +1,3 @@
-include::../ADITO_resources/defaultAttribute.adoc[]
-    
 :toc: auto
 
 = Awsome Tools
