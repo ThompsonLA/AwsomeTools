@@ -3,9 +3,6 @@
 = Awsome Tools
 Tools I can recommend
 
-== Passwortmanager
-- https://keepass.info/download.html[KeePass]
-
 == DEV tool collection
 - https://devtoys.app/[DevToys]
 
